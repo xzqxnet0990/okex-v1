@@ -1,0 +1,194 @@
+{
+    "strategy": {
+        "EXCHANGES": [
+            "MEXC",
+            "HTX",
+            "CoinEx",
+            "Bybit",
+            "Gate",
+            "Bitget",
+            "Futures_MEXC"
+        ],
+        "MAIN_EXCHANGES": [
+            "MEXC",
+            "HTX",
+            "CoinEx",
+            "Bybit",
+            "Gate",
+            "Bitget"
+        ],
+        "COINS" :[
+        "PEAQ",
+        "ELON",
+        "MANEKI",
+        "WOJAK",
+        "XEM",
+        "QUBIC",
+        "ZKL",
+        "SAMO",
+        "PAAL",
+        "TEL",
+        "ORAI",
+        "AITECH",
+        "XDC",
+        "GHX",
+        "CPOOL",
+        "SUNCAT",
+        "LINGO",
+        "AI16Z",
+        "BUZZ",
+        "S",
+        "TREAT",
+        "ZCX",
+        "NPC",
+        "NC",
+        "AGIXT",
+        "MELANIA",
+        "OBT",
+        "PLUME",
+        "TORN",
+        "YULI",
+        "MDOGS",
+        "XPR",
+        "STNK",
+        "SWFTC",
+        "HAPPY",
+        "VVV",
+        "TICO",
+        "SPA",
+        "JELLYJELLY",
+        "CATTON",
+        "BERA",
+        "CHEEMS",
+        "CAR"
+        ],
+        "MIN_AMOUNT": 0.01,
+        "MAX_AMOUNT": 200,
+        "SAFE_AMOUNT": 100,
+        "MAX_DELTA_AMOUNT": 10,
+        "MIN_PROFIT_PERCENT": 0.0003,
+        "MIN_BALANCE_PROFIT_PERCENT": 0.003,
+        "MIN_PENDING_PROFIT_PERCENT": 0.001,
+        "MIGRATE_PROFIT_PERCENT": 0.05,
+        "MIN_PROFIT_THRESHOLD": 0.001,
+        "SLIPPAGE": 0.0015,
+        "PRICE_PRECISION": 8,
+        "SAFE_PRICE": 150,
+        "MAX_TRADE_PRICE": 500,
+        "UPDATE_INTERVAL": 1,
+        "MAX_DELAY": 100,
+        "BALANCE_CHECK_INTERVAL": 60,
+        "MIN_PROFIT_AMOUNT": 0.001,
+        "AVERAGE_ALLOCATION": 100,
+        "ENABLE_HEDGE": true,
+        "MIN_PROCE_DIFF_RATE": 1.3,
+        "FUTURES_MARGIN_RATE": 0.1,
+        "BALANCE_THRESHOLD": 0.4,
+        "PENDING_THRESHOLD": 0.0005,
+        "MAX_PRICE_DEVIATION": 0.015,
+        "MAX_VOLATILITY": 0.003,
+        "ORDER_TIMEOUT": 60,
+        "MAX_PENDING_ORDERS": 3,
+        "MAX_TOTAL_PENDING_VALUE": 10000,
+        "PRICE_UPDATE_THRESHOLD": 0.005,
+        "MAX_PRICE_UPDATES": 3,
+        "MIN_DEPTH_VALUE": 1000,
+        "FORCE_BALANCE_THRESHOLD": 0.7
+    },
+    "exchanges": {
+        "MEXC": {
+            "api_key": "",
+            "api_secret": "",
+            "default_fees": {
+                "maker": 0.000,
+                "taker": 0.0005
+            }
+        },
+        "OKX": {
+            "api_key": "",
+            "api_secret": "",
+            "passphrase": "",
+            "default_fees": {
+                "maker": 0.001,
+                "taker": 0.001
+            }
+        },
+        "HTX": {
+            "api_key": "",
+            "api_secret": "",
+            "default_fees": {
+                "maker": 0.002,
+                "taker": 0.002
+            }
+        },
+        "CoinEx": {
+            "api_key": "",
+            "api_secret": "",
+            "default_fees": {
+                "maker": 0.002,
+                "taker": 0.002
+            }
+        },
+        "Bybit": {
+            "api_key": "",
+            "api_secret": "",
+            "default_fees": {
+                "maker": 0.001,
+                "taker": 0.001
+            }
+        },
+        "Gate": {
+            "api_key": "",
+            "api_secret": "",
+            "default_fees": {
+                "maker": 0.002,
+                "taker": 0.002
+            }
+        },
+        "Bitget": {
+            "api_key": "",
+            "api_secret": "",
+            "passphrase": "",
+            "default_fees": {
+                "maker": 0.001,
+                "taker": 0.001
+            }
+        },
+        "BINANCE": {
+            "api_key": "",
+            "api_secret": "",
+            "default_fees": {
+                "maker": 0.001,
+                "taker": 0.001
+            }
+        }
+    },
+    "risk_control": {
+        "SINGLE_TRADE_LOSS_LIMIT": -50,
+        "TOTAL_LOSS_LIMIT": -1000,
+        "POSITION_LOSS_PERCENT": 0.1,
+        "MAX_DRAWDOWN_PERCENT": 0.2,
+        "DAILY_LOSS_LIMIT": -200,
+        "MAX_POSITION_RATIO": 0.5,
+        "MIN_LIQUIDITY_RATIO": 0.3,
+        "MAX_SINGLE_EXPOSURE": 0.2
+    },
+    "assets": {
+        "INITIAL_BALANCE": 10000,
+        "WITHDRAWAL": 0,
+        "UNLIMITED_CAPACITY": true,
+        "START_TIME": "2024-01-27 22:29:18"
+    },
+    "web_server": {
+        "host": "localhost",
+        "port": 8083,
+        "update_interval": 5,
+        "enabled": true
+    },
+    "logging": {
+        "level": "INFO",
+        "file_path": "logs/trading.log",
+        "max_file_size": 10485760,
+        "backup_count": 5
+    }
+} 

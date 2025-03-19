@@ -1,0 +1,14 @@
+ccxt>=4.0.0
+aiohttp>=3.8.0
+typing_extensions>=4.0.0
+python-dateutil>=2.8.2
+python-dotenv==1.0.0
+websockets==11.0.3
+requests==2.31.0
+asyncio==3.4.3
+setuptools>=65.5.1
+aiohttp_cors
+pytest
+pytest-asyncio
+aiohttp_cors
+fastapi

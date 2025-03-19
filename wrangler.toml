@@ -1,0 +1,23 @@
+name = "okex-v1"
+type = "webpack"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./web-vue/dist"
+
+[build]
+command = "cd web-vue && npm run build"
+
+# 自定义脚本配置
+[scripts]
+# 前端开发服务器
+frontend_dev = "cd web-vue && npm run serve"
+# 前端构建
+frontend_build = "cd web-vue && npm run build"
+# 后端运行
+backend_run = "python examples/simulate_okex_strategy.py"
+# 全栈启动 (同时启动前端和后端)
+fullstack = "npm run build --prefix web-vue && python examples/simulate_okex_strategy.py"

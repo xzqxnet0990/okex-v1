@@ -1,0 +1,1112 @@
+{
+    "PEAQ": {
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "ELON": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "MANEKI": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "WOJAK": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "XEM": {
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "PEPE2": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "QUBIC": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "ZKL": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "SAMO": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "PAAL": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "TEL": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "ORAI": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "AITECH": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "XDC": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "GHX": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "CPOOL": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "SUNCAT": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "LINGO": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0004
+        }
+    },
+    "AI16Z": {
+        "MEXC": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0
+        }
+    },
+    "BUZZ": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "S": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "TREAT": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "ZCX": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "NPC": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "NC": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "AGIXT": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "MELANIA": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0
+        }
+    },
+    "OBT": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "PLUME": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "TORN": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "YULI": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "MDOGS": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "XPR": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "STNK": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "SWFTC": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "HAPPY": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "WEN": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        }
+    },
+    "PINEYE": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "VVV": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "TICO": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "SPA": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "JELLYJELLY": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "CATTON": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "BERA": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "HTX": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "TSTBSC": {
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        }
+    },
+    "CHEEMS": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Bybit": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Gate": {
+            "maker": 0.002,
+            "taker": 0.002
+        },
+        "Bitget": {
+            "maker": 0.001,
+            "taker": 0.001
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    },
+    "CAR": {
+        "MEXC": {
+            "maker": 0.0,
+            "taker": 0.0005
+        },
+        "CoinEx": {
+            "maker": 0.003,
+            "taker": 0.003
+        },
+        "Futures_MEXC": {
+            "maker": 0.0,
+            "taker": 0.0002
+        }
+    }
+}

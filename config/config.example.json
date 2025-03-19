@@ -1,0 +1,32 @@
+{
+    "okx": {
+        "api_key": "your_okx_api_key",
+        "api_secret": "your_okx_api_secret",
+        "passphrase": "your_okx_passphrase"
+    },
+    "mexc": {
+        "api_key": "your_mexc_api_key",
+        "api_secret": "your_mexc_api_secret"
+    },
+    "htx": {
+        "api_key": "your_htx_api_key",
+        "api_secret": "your_htx_api_secret"
+    },
+    "coinex": {
+        "api_key": "your_coinex_api_key",
+        "api_secret": "your_coinex_api_secret"
+    },
+    "gateio": {
+        "api_key": "your_gateio_api_key",
+        "api_secret": "your_gateio_api_secret"
+    },
+    "bitget": {
+        "api_key": "your_bitget_api_key",
+        "api_secret": "your_bitget_api_secret",
+        "passphrase": "your_bitget_passphrase"
+    },
+    "binance": {
+        "api_key": "your_binance_api_key",
+        "api_secret": "your_binance_api_secret"
+    }
+} 
