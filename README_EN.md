@@ -46,14 +46,14 @@ This strategy is a spot arbitrage strategy that aims to capitalize on price disc
 
 The core logic of the strategy is as follows:
 
-- Arbitrage: Execute arbitrage trades between two exchanges by purchasing an asset on one exchange and simultaneously selling the same asset on another exchange to capture profits from price differences.
+- **Arbitrage**: Execute arbitrage trades between two exchanges by purchasing an asset on one exchange and simultaneously selling the same asset on another exchange to capture profits from price differences.
 
-- Hedging Operations: Divided into two modes—forward and reverse. Due to the possibility of unfilled orders, the strategy records unexecuted trades and hedges the remaining portion to mitigate risk.
+- **Hedging Operations**: Divided into two modes—forward and reverse. Due to the possibility of unfilled orders, the strategy records unexecuted trades and hedges the remaining portion to mitigate risk.
 
-- Order Book Arbitrage: Also divided into two modes—forward and reverse, Sell on Exchange A while simultaneously buying on Exchange B. Buy on Exchange A while simultaneously selling on Exchange B.
+- **Order Book Arbitrage**: Also divided into two modes—forward and reverse, Sell on Exchange A while simultaneously buying on Exchange B. Buy on Exchange A while simultaneously selling on Exchange B.
 The goal is to achieve the anticipated profit from these operations.
 
-- Rebalancing Operations: Over time, positions across exchanges may become imbalanced due to prolonged trading. The strategy identifies opportunities to rebalance these positions to maintain equilibrium.
+- **Rebalancing Operations**: Over time, positions across exchanges may become imbalanced due to prolonged trading. The strategy identifies opportunities to rebalance these positions to maintain equilibrium.
 
 ## Configuration
 
