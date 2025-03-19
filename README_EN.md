@@ -41,6 +41,20 @@ This project implements a unified interface for interacting with multiple crypto
 - `examples/`: Example scripts
 - `web-vue/`: Frontend web application (Vue.js)
 
+## Strategy Description
+This strategy is a spot arbitrage strategy that aims to capitalize on price discrepancies between different exchanges, enabling low-risk profit opportunities through buying low and selling high. Theoretically, the more currencies and exchanges monitored, the greater the potential for arbitrage opportunities.
+
+The core logic of the strategy is as follows:
+
+- Arbitrage: Execute arbitrage trades between two exchanges by purchasing an asset on one exchange and simultaneously selling the same asset on another exchange to capture profits from price differences.
+
+- Hedging Operations: Divided into two modes—forward and reverse. Due to the possibility of unfilled orders, the strategy records unexecuted trades and hedges the remaining portion to mitigate risk.
+
+- Order Book Arbitrage: Also divided into two modes—forward and reverse, Sell on Exchange A while simultaneously buying on Exchange B. Buy on Exchange A while simultaneously selling on Exchange B.
+The goal is to achieve the anticipated profit from these operations.
+
+- Rebalancing Operations: Over time, positions across exchanges may become imbalanced due to prolonged trading. The strategy identifies opportunities to rebalance these positions to maintain equilibrium.
+
 ## Configuration
 
 Create a `config/config.json` file with your exchange API credentials:
