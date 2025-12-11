@@ -149,7 +149,7 @@ await ExchangeFactory.close_all()
 
 ## 依赖项
 
-- Python 3.7+
+- Python 3.9+
 - ccxt
 - aiohttp
 - typing_extensions
